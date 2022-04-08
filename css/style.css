@@ -1,0 +1,25 @@
+.titulo{
+    color: blue;
+    text-align: center;
+    font-size: 100px;
+}
+
+img{
+ width:100px;
+ height:100px;
+}
+
+#frutas{
+    font-size: 40px;
+    color: green;
+}
+
+#carnes{
+    font-size: 40px;
+    color: red;
+}
+
+.verde{
+    font-size:25px;
+    color: rebeccapurple;
+}
